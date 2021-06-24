@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SamuraiApp.Data\\Repository",
+    "\\SamuraiApp.Data\\Repository\\Concrete",
+    "\\SamuraiApp.Data\\Repository\\Interface",
+    "\\SamuraiApp.Domain\\Service\\Concrete",
+    "\\SamuraiApp.UI"
+  ],
+  "SelectedNode": "\\SamuraiApp.UI\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}

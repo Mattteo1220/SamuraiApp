@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "huPXTJ5CvnNrMaDzpvRa7RpSa0nBYOASNpgYpIxyacS9Qr3VV4nwhXk5xZFgm+c5SPAtgPRHNuluYEopJLT2Pw==",
+  "dgSpecHash": "8Vl+By8DAjlMg5rYJWr4wgkmW6R/EWOElVpAXmbIeTdFO1+8DrupXCyR9utXx8ehr3NhiJV0YfmpQ8nlqAU86w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mmcentire\\Source\\repos\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
+  "projectFilePath": "C:\\Users\\mmcentire\\Documents\\Personal\\CSharp\\SamuraiApp\\SamuraiApp.Domain\\SamuraiApp.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\mmcentire\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
